@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "interfacegrafica.Interface",
+            "projectName": "Java treinos junior_e91beba"
+        },
+        {
+            "type": "java",
+            "name": "AreaDoTriangulo",
+            "request": "launch",
+            "mainClass": "area.AreaDoTriangulo",
+            "projectName": "Java treinos junior_e91beba"
+        },
+        {
+            "type": "java",
+            "name": "AreaDoQuadrado",
+            "request": "launch",
+            "mainClass": "area.AreaDoQuadrado",
+            "projectName": "Java treinos junior_e91beba"
+        },
+        {
+            "type": "java",
+            "name": "CalcularVelocidadeDIstancia",
+            "request": "launch",
+            "mainClass": "calcularvelocidadedistancia.CalcularVelocidadeDIstancia",
+            "projectName": "Java treinos junior_e91beba"
+        },
+        {
+            "type": "java",
+            "name": "AreaDoQuadrado",
+            "request": "launch",
+            "mainClass": "areadoquadrado.AreaDoQuadrado",
+            "projectName": "Java treinos junior_e91beba"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
